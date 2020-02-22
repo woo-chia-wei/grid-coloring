@@ -1,0 +1,2 @@
+# About
+Generate random connected squares, apply color on each square so that each adjacent square have different colors. Here we use the fact that 4 different colors are sufficient for any map coloring, refer to four color theorem.
